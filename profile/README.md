@@ -109,7 +109,7 @@ Wij geloven dat effectieve bescherming tegen CBRN-dreigingen alleen mogelijk is 
 ## Contact
 
 Voor vragen over opleidingen, trainingen, expertise of samenwerking kunt u contact opnemen via de officiële Defensie-kanalen.
-
+https://www.defensie.nl/onderwerpen/c/cbrn-centrum/defensie-cbrn-centrum
 ---
 
 **Defensie beschermt wat ons dierbaar is.**

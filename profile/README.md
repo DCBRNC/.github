@@ -113,3 +113,8 @@ https://www.defensie.nl/onderwerpen/c/cbrn-centrum/defensie-cbrn-centrum
 ---
 
 **Defensie beschermt wat ons dierbaar is.**
+---
+
+> ⚠️ **Disclaimer**
+>
+> Dit is een niet-officieel GitHub-profiel en staat niet onder beheer van het Ministerie van Defensie of het Defensie CBRN Centrum. De inhoud van dit profiel vertegenwoordigt niet noodzakelijk de standpunten, het beleid of de officiële communicatie van Defensie. Gebruik van de aangeboden informatie, documentatie en software is volledig op eigen risico.

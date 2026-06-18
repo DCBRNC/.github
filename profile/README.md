@@ -52,54 +52,6 @@ De CBRN Respons Eenheid staat 24/7 gereed om civiele hulpdiensten te ondersteune
 
 ---
 
-## Het KOTI-model
-
-Het Defensie CBRN Centrum werkt volgens het KOTI-model:
-
-| Domein    | Beschrijving                                        |
-| --------- | --------------------------------------------------- |
-| Kennis    | Onderzoek, advies en doctrineontwikkeling           |
-| Opleiding | Specialistische opleidingen en certificering        |
-| Training  | Realistische oefeningen en scenario-gebaseerd leren |
-| Inzet     | Operationele ondersteuning bij CBRN-incidenten      |
-
-Deze geïntegreerde aanpak zorgt ervoor dat kennis, opleiding, training en operationele inzet elkaar voortdurend versterken.
-
----
-
-## Samenwerking
-
-Het Defensie CBRN Centrum werkt nauw samen met onder andere:
-
-* Politie
-* Brandweer
-* GHOR
-* NFI
-* TNO
-* RIVM
-* Veiligheidsregio's
-* Ministeries en nationale veiligheidsorganisaties
-
-Door deze samenwerking ontstaat een sterke civiel-militaire keten voor crisisbeheersing en nationale veiligheid.
-
----
-
-## Expertisegebieden
-
-* Chemische dreigingen
-* Biologische dreigingen
-* Radiologische incidenten
-* Nucleaire veiligheid
-* Detectie en identificatie
-* Ontsmetting en decontaminatie
-* Risicoanalyse
-* Crisismanagement
-* Nationale veiligheid
-* Opleidingsontwikkeling
-* Doctrineontwikkeling
-
----
-
 ## Visie
 
 Wij geloven dat effectieve bescherming tegen CBRN-dreigingen alleen mogelijk is door een combinatie van hoogwaardige expertise, realistische training, voortdurende innovatie en intensieve samenwerking tussen militaire en civiele partners.
